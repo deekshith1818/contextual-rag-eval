@@ -1,0 +1,17 @@
+langchain
+langchain-community
+langchain-anthropic
+langchain-text-splitters
+qdrant-client
+rank-bm25
+sentence-transformers
+ragas
+streamlit
+python-dotenv
+tiktoken
+pandas
+requests
+beautifulsoup4
+markdown
+anthropic
+tqdm

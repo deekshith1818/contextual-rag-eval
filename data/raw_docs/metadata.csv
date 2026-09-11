@@ -1,0 +1,35 @@
+filename,source_url,page_title,section_category
+docs__concepts__workloads.txt,https://kubernetes.io/docs/concepts/workloads/,Workloads,Workloads
+docs__concepts__workloads__pods.txt,https://kubernetes.io/docs/concepts/workloads/pods/,Pods,Workloads
+docs__concepts__workloads__pods__pod-lifecycle.txt,https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/,Pod Lifecycle,Workloads
+docs__concepts__workloads__pods__init-containers.txt,https://kubernetes.io/docs/concepts/workloads/pods/init-containers/,Init Containers,Workloads
+docs__concepts__workloads__controllers__deployment.txt,https://kubernetes.io/docs/concepts/workloads/controllers/deployment/,Deployments,Workloads
+docs__concepts__workloads__controllers__replicaset.txt,https://kubernetes.io/docs/concepts/workloads/controllers/replicaset/,ReplicaSet,Workloads
+docs__concepts__workloads__controllers__statefulset.txt,https://kubernetes.io/docs/concepts/workloads/controllers/statefulset/,StatefulSets,Workloads
+docs__concepts__workloads__controllers__daemonset.txt,https://kubernetes.io/docs/concepts/workloads/controllers/daemonset/,DaemonSet,Workloads
+docs__concepts__workloads__controllers__job.txt,https://kubernetes.io/docs/concepts/workloads/controllers/job/,Jobs,Workloads
+docs__concepts__workloads__controllers__cron-jobs.txt,https://kubernetes.io/docs/concepts/workloads/controllers/cron-jobs/,CronJob,Workloads
+docs__concepts__services-networking__service.txt,https://kubernetes.io/docs/concepts/services-networking/service/,Service,Networking
+docs__concepts__services-networking__ingress.txt,https://kubernetes.io/docs/concepts/services-networking/ingress/,Ingress,Networking
+docs__concepts__services-networking__ingress-controllers.txt,https://kubernetes.io/docs/concepts/services-networking/ingress-controllers/,Ingress Controllers,Networking
+docs__concepts__services-networking__dns-pod-service.txt,https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/,DNS for Services and Pods,Networking
+docs__concepts__services-networking__network-policies.txt,https://kubernetes.io/docs/concepts/services-networking/network-policies/,Network Policies,Networking
+docs__concepts__services-networking__endpoint-slices.txt,https://kubernetes.io/docs/concepts/services-networking/endpoint-slices/,EndpointSlices,Networking
+docs__concepts__configuration__configmap.txt,https://kubernetes.io/docs/concepts/configuration/configmap/,ConfigMaps,Configuration
+docs__concepts__configuration__secret.txt,https://kubernetes.io/docs/concepts/configuration/secret/,Secrets,Configuration
+docs__concepts__configuration__manage-resources-containers.txt,https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/,Resource Management for Pods and Containers,Configuration
+docs__concepts__storage__volumes.txt,https://kubernetes.io/docs/concepts/storage/volumes/,Volumes,Storage
+docs__concepts__storage__persistent-volumes.txt,https://kubernetes.io/docs/concepts/storage/persistent-volumes/,Persistent Volumes,Storage
+docs__concepts__storage__storage-classes.txt,https://kubernetes.io/docs/concepts/storage/storage-classes/,Storage Classes,Storage
+docs__concepts__storage__dynamic-provisioning.txt,https://kubernetes.io/docs/concepts/storage/dynamic-provisioning/,Dynamic Volume Provisioning,Storage
+docs__concepts__security__rbac-good-practices.txt,https://kubernetes.io/docs/concepts/security/rbac-good-practices/,Role Based Access Control Good Practices,Security
+docs__reference__access-authn-authz__rbac.txt,https://kubernetes.io/docs/reference/access-authn-authz/rbac/,Using RBAC Authorization,Security
+docs__concepts__security__service-accounts.txt,https://kubernetes.io/docs/concepts/security/service-accounts/,Service Accounts,Security
+docs__concepts__security__pod-security-standards.txt,https://kubernetes.io/docs/concepts/security/pod-security-standards/,Pod Security Standards,Security
+docs__concepts__security__pod-security-admission.txt,https://kubernetes.io/docs/concepts/security/pod-security-admission/,Pod Security Admission,Security
+docs__tasks__configure-pod-container__configure-pod-configmap.txt,https://kubernetes.io/docs/tasks/configure-pod-container/configure-pod-configmap/,Configure a Pod to Use a ConfigMap,Tasks
+docs__tasks__configure-pod-container__assign-pods-nodes.txt,https://kubernetes.io/docs/tasks/configure-pod-container/assign-pods-nodes/,Assign Pods to Nodes,Tasks
+docs__tasks__configure-pod-container__assign-memory-resource.txt,https://kubernetes.io/docs/tasks/configure-pod-container/assign-memory-resource/,Assign Memory Resources to Containers and Pods,Tasks
+docs__tasks__configure-pod-container__configure-liveness-readiness-startup-probes.txt,https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/,"Configure Liveness, Readiness and Startup Probes",Tasks
+docs__tasks__configure-pod-container__configure-service-account.txt,https://kubernetes.io/docs/tasks/configure-pod-container/configure-service-account/,Configure Service Accounts for Pods,Tasks
+docs__tasks__run-application__run-stateless-application-deployment.txt,https://kubernetes.io/docs/tasks/run-application/run-stateless-application-deployment/,Run a Stateless Application Using a Deployment,Tasks
